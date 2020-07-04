@@ -1,0 +1,18 @@
+{
+  "name": "minecraft-splash",
+  "version": "1.0.0",
+  "description": "A simple and easy to use package which will randomly select a splash text which normally displays on the main menu of Minecraft.",
+  "main": "splash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minecraft",
+    "minecraft-splash"
+  ],
+  "homepage": "https://github.com/SethFromStateFarm/minecraft-splashes",
+  "bugs": "https://github.com/SethFromStateFarm/minecraft-splashes/issues",
+  "author": "Seth Richardson",
+  "license": "ISC",
+  "private": false
+}
