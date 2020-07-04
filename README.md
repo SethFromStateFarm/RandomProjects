@@ -4,3 +4,9 @@ This is a rather simple project but I hope it helps those who were looking for t
 
 Thanks!
  -Seth
+
+Usage:
+
+> const splashes = require("minecraft-splashes")
+
+> splashes();
