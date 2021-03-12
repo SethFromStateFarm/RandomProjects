@@ -10,9 +10,9 @@
     "minecraft",
     "minecraft-splash"
   ],
-  "homepage": "https://github.com/SethFromStateFarm/minecraft-splashes",
-  "bugs": "https://github.com/SethFromStateFarm/minecraft-splashes/issues",
-  "author": "Seth Richardson",
+  "homepage": "https://github.com/ThySeth/minecraft-splashes",
+  "bugs": "https://github.com/ThySeth/minecraft-splashes/issues",
+  "author": "Seth R.",
   "license": "ISC",
   "private": false
 }
